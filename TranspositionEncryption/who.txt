@@ -1,0 +1,10 @@
+E38Your project is to write a program that can encrypt and decrypt a message using a simple columnar transposition encryption algorithm*
+E63For the purposes of this project, you will use two steps of column transpositions.*
+E83The text file will consist of messages; each line will start with either E (encrypt) or D (decrypt)*
+E59and two digits for the number of columns that will be used (or were used) to encrypt the message.*
+E26Each message will end with “star.”*
+D38ygrcrjtsraoriohrmtuttngaoitatqoaeantcsptadmnqcaargrpgiqocecqsnusieniouaplpqwynsmrelnrhmnoqtasioryoyecstlqpdpeptamiieenrq*
+D63fistoserrptatrwnhoosejsppetoucesrtpip,stoyoisofoeucnswosoil.fluqtlmqhunq*
+D83tmrdleh)siytsieiheqts)teeycnnqi;ttnwreswdwcrqsltxghrlieqfarqoechet(eaeqilpeatcll(qotofsipq*
+D59aeseett.sowheoeiwrtsbpseuiutocmwtortmyngegeurfetd(o)ohmabirncusandfdrthqldeenlslq*
+D26eitsiclrghmn”wsswalaathe.e“edq*
